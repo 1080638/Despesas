@@ -9,5 +9,7 @@ package eapli.teste;
  * @author João
  */
 public class MenuDespesas {
-    
+    public MenuDespesas(){
+        
+    }
 }
